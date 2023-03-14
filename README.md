@@ -1,8 +1,8 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://SohitYadav.io)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=Hello👋,+I'm+Sohit+Yadav..!;+Full-Stack+Developer..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=Hello👋,+I'm+Sohit+Yadav..!;+Full-Stack+Web+Developer..." alt="Typing SVG" /></a>
 
 
-<h3 align="center">Quick learner and aspiring Full Stack Developer with core knowledge of Javascript, HTML, CSS, Node js, Express js and Mongo DB</h3>
+<h3 align="center">Quick learner and aspiring Full Stack Web Developer with core knowledge of Javascript, HTML, CSS, Node js, Express js and Mongo DB</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
