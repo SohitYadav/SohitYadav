@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👯 Looking to soolve real world problems **.**
+- 👯 Looking to solve real world problems **.**
 
 - 👨‍💻 All of my projects are available at [.](.)
 
