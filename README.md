@@ -52,11 +52,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=SohitYadav&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohityadav&show_icons=true&locale=en&layout=compact&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="sohityadav" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohityadav&show_icons=true&hide_border=true&locale=en&layout=compact&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="sohityadav" /></p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=sohityadav&show_icons=true&locale=en&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sohityadav" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=sohityadav&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="sohityadav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohityadav&&theme=tokyonight&hide_border=false" alt="sohityadav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohityadav&&theme=tokyonight&hide_border=true" alt="sohityadav" /></p>
 <hr>
 
-![Sohit's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SohitYadav&theme=tokyo-night)
+![Sohit's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SohitYadav&theme=tokyo-night&hide_border=true)
