@@ -22,13 +22,13 @@
 
 - 👯 Looking to solve real world problems **.**
 
-- 👨‍💻 All of my projects are available at [.](.)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sohityadav.github.io/)
 
 - 💬 Ask me about **JavaScript, Node JS, Express,MongoDB, Mongoose**
 
 - 📫 How to reach me **sohityadav44@gmail.com**
 
-- 📄 Know about my experiences [.](.)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hfgAPIga-Oex9niLyQfOgDtN6h6376zB/view?usp=sharing)
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
