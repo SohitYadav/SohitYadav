@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👯 Looking to solve real world problems **.**
+- 👯 Looking to solve real world problems
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sohityadav.github.io/)
 
