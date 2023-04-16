@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sohityadav.github.io/)
 
-- 💬 Ask me about **JavaScript, Node JS, Express,MongoDB, Mongoose**
+- 💬 Ask me about **JavaScript, Node JS, Express JS, MongoDB, Mongoose**
 
 - 📫 How to reach me **sohityadav44@gmail.com**
 
