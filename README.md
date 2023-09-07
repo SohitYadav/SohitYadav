@@ -59,4 +59,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohityadav&&theme=tokyonight&hide_border=true" alt="sohityadav" /></p>
 <hr>
 
-![Sohit's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SohitYadav&theme=tokyo-night&hide_border=true)
+[![Sohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohitYadav&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/SohitYadav/github-readme-activity-graph)
