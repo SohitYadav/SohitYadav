@@ -22,7 +22,7 @@
 
 - 👯 Looking to solve real world problems
 
-- 👨‍💻 All of my projects are available at https://sohityadav.github.io/
+- 👨‍💻 All of my projects are available at [Portfolio](https://sohityadav.github.io/)
 
 - 💬 Ask me about **JavaScript, Node JS, Express JS, MongoDB, Mongoose**
 
